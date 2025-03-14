@@ -6,7 +6,7 @@ namespace CaseManagmaentSystem.classes.Observer
     public interface IObserver
     {
         void Update(string message);
-        bool WantsNotifications();
+       // bool WantsNotifications();
         
     }
 }
